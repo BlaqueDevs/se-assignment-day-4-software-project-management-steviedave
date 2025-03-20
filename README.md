@@ -144,8 +144,55 @@ A Gantt chart is a type of bar chart that illustrates a project schedule by list
 6. Easy Updating: Modern project management software allows for easy updating of Gantt charts, ensuring that the schedule remains accurate and up-to-date.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The software I would like to create aims at bridging the gap between technology and learning. Technology has improved significantly over the last two decades being incorporated in our day to day lives. Education, however has fallen behind in the integation of techology. My software aims to;
+1. Ease learning and practicing for learners through an online learning platform
+2. Improve teacher student engagement as teachers can help their students on a personal level though the platform
+3. Improve the technological litaracy of young learners
+4. Ease assesment of student performance by offering online assesments and realtime data about student progress
+
+These problems are significant to my target audience which are young learners in primary and secondary schools in my country as they have fallen behind in the incorporation of technology in their learning. Most learners, by the time they graduate from highschool will still have low levels of Tech literacy. Having an online learning platform helps them improve their literacy while learning and helps the teachers in their assesments and data about students progress which can also help the country at large.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem is the cornerstone of developing an effective software solution. Without a precise understanding of what needs to be solved, the resulting software is likely to miss the mark, leading to wasted resources and user dissatisfaction. The following are some advantages of clear problem definition.  
+
+1. Focused Development: A well-defined problem provides a clear target for the development team. This focus ensures that efforts are directed towards building the right
+   features and functionalities, avoiding unnecessary complexity.   
+2. Accurate Requirements Gathering: Understanding the problem allows for the precise identification of user needs and requirements. This leads to the creation of software
+   that truly addresses those needs.   
+3. Efficient Resource Allocation: By knowing the scope and nature of the problem, project managers can allocate resources effectively, ensuring that time, budget, and
+   personnel are used optimally.   
+4. Reduced Scope Creep: A clear problem definition acts as a boundary, preventing the project from expanding beyond its intended scope. This helps maintain control over
+   timelines and budgets.
+5. Improved Communication: A shared understanding of the problem facilitates clear communication among stakeholders, including developers, users, and management. This
+   minimizes misunderstandings and ensures alignment.
+6. Enhanced Testing and Validation: A well-defined problem provides a basis for creating comprehensive test cases and validation criteria. This ensures that the software is
+   thoroughly tested and meets the required standards.
+7. Increased User Satisfaction: When software effectively solves a clearly defined problem, it leads to higher user satisfaction and adoption.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Imagine a world where students can get to learn and do their assignments all in an online platform! My software solution is exactly that! It's like an online classroom whre students can interact with their teachers and learning material which in turn not only helps them become more Tech literate, but also greatly improves learning efficiency.
+Think of it as a way to bridge the gap between technology literacy which is very valuable in our current world and the learning experience without the usual monotony of our education system that's heavily focused on assesments and recalling.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+1. Online integration which allows students to access classes and learning materials at any time and anywhere.
+2. Statistical representation of students progress though analyzing their scores in assignmments, tests and classsroom engagement
+3. Ease of teachers to help students through the platform as it gives a sort of 'one-on-one' feel between the teacher and student
+4. Allows for online tracking of students working on tasks in the platform in real time hence helping ensure students are productive.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+The data available includes the prevalence of use of technology in learning. This can be derived from data such as how many schools have computer laboratories in Kenya or how many schools offer Tech related courses like computer technology. More data like the student to teacher ratio is available which shows the significance of having a sort of online learning system which gives a one-on-one feel between the teachers and students henc eimproving learning efficiency. Data about how many students and highschool graduates are computer literate can also be derived which can inform the need for incorporating more technology into our learning.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+understanding market trends can help inform my software's positioning and development through;
+1. Identifying Opportunities and Gaps: This can be done though methods such as spotting emerging needs in the market such as the need for tech literacy among students and
+   alsoanticipating future needs and demands in the market.
+2. Informing Product Development: Data from the market can help in key decisions that inform how the software is to be developed. This can be done through feature
+   prioritization based on what features in a software appeal to the market, incorporatin trends in user design and experience and technology adoption such as Artiificial
+   inteligence.
+3. Guiding Market Positioning: This can be achieved through;
+   (i) Target Audience Definition: Market trends help you refine your understanding of your target audience, including their demographics, needs, and preferences.   
+   (ii) Competitive Differentiation: By analyzing competitor trends, you can identify opportunities to differentiate your software and create a unique value proposition.       (iii)Messaging and Marketing: Trends inform the language and messaging you use to market your software, ensuring that it resonates with your target audience.
+
+   
+
+
