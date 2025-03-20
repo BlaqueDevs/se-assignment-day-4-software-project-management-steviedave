@@ -183,7 +183,7 @@ Think of it as a way to bridge the gap between technology literacy which is very
 The data available includes the prevalence of use of technology in learning. This can be derived from data such as how many schools have computer laboratories in Kenya or how many schools offer Tech related courses like computer technology. More data like the student to teacher ratio is available which shows the significance of having a sort of online learning system which gives a one-on-one feel between the teachers and students henc eimproving learning efficiency. Data about how many students and highschool graduates are computer literate can also be derived which can inform the need for incorporating more technology into our learning.
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
-understanding market trends can help inform my software's positioning and development through;
+Understanding market trends can help inform my software's positioning and development through;
 1. Identifying Opportunities and Gaps: This can be done though methods such as spotting emerging needs in the market such as the need for tech literacy among students and
    alsoanticipating future needs and demands in the market.
 2. Informing Product Development: Data from the market can help in key decisions that inform how the software is to be developed. This can be done through feature
